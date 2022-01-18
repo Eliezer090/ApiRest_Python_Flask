@@ -1,7 +1,7 @@
 # ApiRest_Python_Flask
 Desenvolvimento de uma API Rest utilizando Python e Flask 
 
-#Comandos
+# Comandos
 - python3 -m venv venv (Criando dir ambiente)
 - source venv/bin/activate (Ativando ambiente)
 - pip install flask (Instalando flask)
